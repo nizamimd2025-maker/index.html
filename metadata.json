@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SmartStudy AI",
+  "description": "An all-in-one AI Homework Helper. Snap, type, or speak questions to get explanations and generate quizzes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
